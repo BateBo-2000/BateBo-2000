@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Boyan
+- 👀 I’m interested in software development and penetration testing
+- 🌱 I’m currently learning c# and linux
