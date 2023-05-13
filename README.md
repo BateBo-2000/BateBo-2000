@@ -1,3 +1,9 @@
-- 👋 Hi, I’m Boyan
-- 👀 I’m interested in software development and penetration testing
-- 🌱 I’m intermediate in java,currently learning js,typescript and d3
+👋 Hi, I’m Boyan
+🎓 Upcoming high school graduate with a specialization in programming.
+👨‍💻 Aspiring back-end/front-end software developer.
+🛠️ Skills include: Java, JavaScript/TypeScript, HTML/CSS, MySQL, React/Angular, Node/Express, Spring Boot, PostgreSQL.
+🌟 Notable projects: Authorization Service and User Service.
+🎧 Self-taught through comprehensive online learning platforms like Udemy and YouTube.
+🤝 Eager to contribute to open-source projects.
+🌱 Special interest in expanding knowledge and proficiency in Java/Spring Boot.
+🚀 Committed to continuous learning and growth in software development.
